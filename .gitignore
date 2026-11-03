@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+generate_screenshots.py
